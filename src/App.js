@@ -1,4 +1,4 @@
-import React, {useState, useEffect} from 'react'
+import React, {useState} from 'react'
 import {AiOutlinePlus} from 'react-icons/ai'
 import Todo from './Todo'
 import {db} from './firebase'
